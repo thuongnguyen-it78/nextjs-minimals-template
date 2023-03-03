@@ -8,7 +8,7 @@ import cssStyles from '../../utils/cssStyles';
 // ----------------------------------------------------------------------
 
 export function ControlStyle() {
-  const theme = useTheme();
+  const theme = useTheme(); 
 
   return (
     <GlobalStyles
